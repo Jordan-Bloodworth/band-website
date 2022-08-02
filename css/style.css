@@ -1,0 +1,18 @@
+@font-face {
+	font-family: Boba-Milk;
+	src: url(/fonts/boba-milk.otf);
+}
+
+@font-face {
+	font-family: ProdaSans-Regular;
+	src: url(/fonts/ProdaSans-Regular.otf);
+}
+
+body {
+	background-color: black;
+}
+
+.video {
+	aspect-ratio: 16/9;
+	width: 100%;
+}
