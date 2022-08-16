@@ -8,11 +8,12 @@
 	src: url(/fonts/ProdaSans-Regular.otf);
 }
 
-body {
-	background-color: black;
+@font-face {
+	font-family: ProdaSans-Bold;
+	src: url(/fonts/ProdaSans-Bold.otf);
 }
 
-.video {
-	aspect-ratio: 16/9;
-	width: 100%;
+body {
+	background-color: black;
+	color: white;
 }
