@@ -1,19 +1,20 @@
 @font-face {
 	font-family: "Boba-Milk";
 	src: url('fonts/boba-milk.otf'),
-	url('fonts/boba-milk.otf') format('otf'), /*Modern Browsers*/
+	url('fonts/boba-milk.woff') format('woff'), /*Modern Browsers*/
 	url('fonts/boba-milk.ttf') format('truetype') /*For Safari/iOS*/;
 }
 
 @font-face {
 	font-family: "ProdaSans-Regular";
 	src: url('fonts/ProdaSans-Regular.otf'),
-	url('fonts/ProdaSans-Regular.otf') format('otf');
+	url('fonts/ProdaSans-Regular.woff') format('woff');
 }
 
 @font-face {
 	font-family: "ProdaSans-Bold";
-	src: url('fonts/ProdaSans-Bold.otf');
+	src: url('fonts/ProdaSans-Bold.otf'),
+	url('fonts/ProdaSans-Bold.woff') format('woff');
 }
 
 body {
