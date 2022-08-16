@@ -1,16 +1,16 @@
 @font-face {
 	font-family: "Boba-Milk";
-	src: url('/fonts/boba-milk.ttf');
+	src: url('../fonts/boba-milk.ttf');
 }
 
 @font-face {
 	font-family: "ProdaSans-Regular";
-	src: url('/fonts/ProdaSans-Regular.otf');
+	src: url('../fonts/ProdaSans-Regular.otf');
 }
 
 @font-face {
 	font-family: "ProdaSans-Bold";
-	src: url('/fonts/ProdaSans-Bold.otf');
+	src: url('../fonts/ProdaSans-Bold.otf');
 }
 
 body {
