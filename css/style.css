@@ -1,15 +1,18 @@
 @font-face {
 	font-family: Boba-Milk;
+	font-display: swap;
 	src: url(fonts/boba-milk.otf);
 }
 
 @font-face {
 	font-family: ProdaSans-Regular;
+	font-display: swap;
 	src: url(fonts/ProdaSans-Regular.otf);
 }
 
 @font-face {
 	font-family: ProdaSans-Bold;
+	font-display: swap;
 	src: url(fonts/ProdaSans-Bold.otf);
 }
 
